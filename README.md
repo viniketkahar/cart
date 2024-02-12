@@ -1,3 +1,5 @@
+Developed this Cart only for learning and practising react-redux and reduxjs/toolkit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
